@@ -1,0 +1,68 @@
+_repo: Fashions-for-men-and-The-swan-b-Two-plays-by-Franz-Molnar_75610
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Glazer, Benjamin F. (Benjamin Floyer)
+    alias: Glaser, Benjamin F. (Benjamin Floyer)
+    birthdate: 1887
+    deathdate: 1956
+    gutenberg_agent_id: '44954'
+    url: http://www.gutenberg.org/2009/agents/44954
+    wikipedia: https://en.wikipedia.org/wiki/Benjamin_Glazer
+creator:
+  author:
+    agent_name: Molnár, Ferenc
+    aliases:
+    - Molnar, Ferenc
+    - Neumann, Ferenc
+    - Molnár, Ferencz
+    - Molnar, Franz
+    - Molnàr, Francesco
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '5844'
+    url: http://www.gutenberg.org/2009/agents/5844
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r
+    - https://hu.wikipedia.org/wiki/Moln%C3%A1r_Ferenc_(%C3%ADr%C3%B3)
+description: 'Reading ease score: 81.0 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Literature'
+- 'Browsing: Performing Arts/Film'
+gutenberg_issued: '2025-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75610'
+language: en
+pgterms:marc905: 20080211004332molnr
+pgterms:marc906: '1921'
+pgterms:marc907: us
+production_note: Steven desJardins and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from scanned images of public domain
+  material from the Google Books project.)
+publication_note: '  $aNew York :$bBoni and Liveright, $c1921, copyright 1922, pubdate
+  1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedy plays'
+- !lcsh 'Hungarian drama -- Translations into English'
+- !lcc 'PH'
+- GITenberg
+summary: '"Fashions for Men and The Swan: Two Plays by Franz Molnár" by Ferenc Molnár
+  is a collection of dramatic works written in the early 20th century. The first play,
+  "Fashions for Men," revolves around the interactions in a clothing shop, exploring
+  themes of societal class and personal relationships. The characters include Peter
+  Juhasz, his wife Adele, and various customers, highlighting the nuances of human
+  emotions and social dynamics in a lighthearted yet poignant manner.  At the start
+  of the play "Fashions for Men," we find ourselves in a modest shop, where Peter
+  Juhasz and his wife Adele work together amidst an array of customers, each seeking
+  to fulfill their fashion desires. As interactions unfold, there''s an undercurrent
+  of tension as Adele grapples with important decisions, including a growing connection
+  to Oscar, one of her husband''s colleagues. The opening sets the stage for a comedic
+  yet serious exploration of relationships, revealing the complexities of loyalty
+  and desire against the backdrop of social expectations. (This is an automatically
+  generated summary.)'
+title: 'Fashions for men, and The swan : $b Two plays by Franz Molnar'
+url: http://www.gutenberg.org/ebooks/75610
